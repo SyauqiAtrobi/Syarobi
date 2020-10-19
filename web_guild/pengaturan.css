@@ -1,0 +1,56 @@
+body {
+	background-image: url(background.jpg);
+	}
+.utama	{
+	background-color:rgba(102, 102, 102, 0.8);
+}
+div {
+
+	width: 70%;	
+	margin:auto;
+	box-sizing: border-box;
+	}
+div .icon {
+	text-align: center;
+	}
+
+h1	{
+	text-align: center;
+	font:normal 50px/50px serif;
+	font-size: 60px;
+	font-family: serif;
+	font-weight: 100px;
+	}
+
+h2 {
+	font-family: impact;
+	font-size: 20px;
+}
+img {
+	width:40%;
+	height:40%;
+	margin:auto;
+}
+.main, .isi, .visi, .fasilitas,.rule,.syarat,.petinggi {
+	margin-left:40px;
+}
+.list {
+	text-indent:-10px;
+}
+.but {
+	margin: auto;
+	border: 2px solid;
+	text-align: center;
+	font-family: calibri;
+	font-size:17px;
+}
+a:hover {
+color:salmon;
+}
+a:visited {
+color:lightblue;
+}
+a:active{
+color:white;
+text-decoration: line-through;
+}
